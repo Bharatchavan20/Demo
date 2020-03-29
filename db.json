@@ -1,0 +1,5 @@
+{
+  "formFields": 
+  [{"type":"textLabel","props":{"value":"Employee details"},"style":{"color":"black","fontWeight":"bold","fontSize":20}},{"type":"textInput",
+   "props":{"keyboardType":"default","underlineColorAndroid":"black","placeholder":"Enter your name"},"entity":"username","style":{}},{"type":"textInput","props":{"keyboardType":"numeric","underlineColorAndroid":"black","placeholder":"Enter age"},"entity":"age","style":{}},{"type":"textInput","props":{"keyboardType":"email-address","underlineColorAndroid":"black","placeholder":"Email"},"entity":"email","style":{}},{"type":"image","props":{"value":"https://as2.ftcdn.net/jpg/03/27/51/57/500_F_327515738_nA3ke9EPgwmuH60oZrqZV4Fe5r9M6ndj.jpg"},"style":{"width":200,"height":200,"margin":20,"alignSelf":"center"}},{"type":"singleChoice","props":{},"entity":"gender","options":[{"label":"Male","value":1},{"label":"Female","value":2}],"style":{}},{"type":"button","props":{"title":"Save"},"style":{}}]
+ }
