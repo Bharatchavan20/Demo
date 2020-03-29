@@ -21,6 +21,16 @@
       "entity": "username",
       "style": {}
     },
+     {
+      "type": "textInput",
+      "props": {
+        "keyboardType": "default",
+        "underlineColorAndroid": "black",
+        "placeholder": "Enter your address"
+      },
+      "entity": "address",
+      "style": {}
+    },
     {
       "type": "textInput",
       "props": {
